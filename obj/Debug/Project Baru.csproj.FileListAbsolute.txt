@@ -1,0 +1,6 @@
+C:\Users\asus\Documents\OOP\Project Baru\Project Baru\bin\Debug\Project Baru.exe.config
+C:\Users\asus\Documents\OOP\Project Baru\Project Baru\bin\Debug\Project Baru.exe
+C:\Users\asus\Documents\OOP\Project Baru\Project Baru\bin\Debug\Project Baru.pdb
+C:\Users\asus\Documents\OOP\Project Baru\Project Baru\obj\Debug\Project Baru.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\OOP\Project Baru\Project Baru\obj\Debug\Project Baru.exe
+C:\Users\asus\Documents\OOP\Project Baru\Project Baru\obj\Debug\Project Baru.pdb
